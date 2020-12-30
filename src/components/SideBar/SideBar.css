@@ -1,0 +1,41 @@
+.btn {
+    position: absolute;
+    top: 2rem;
+    right: 2rem;
+    font-size: 2rem;
+    background: transparent;
+    border-color: transparent;
+    cursor: pointer;
+}
+
+.mainMenu {
+    color: var(--clr-primary-4);
+}
+
+.list {
+    margin-top: 5rem;
+}
+
+.list li {
+    margin: 3rem 0rem;
+}
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background: var(--clr-primary-4);
+    transition: all 0.3s linear;
+    transform: translate(100%);
+}
+.show-sidebar {
+    transform: translate(0);
+}
+
+@media screen and (min-width: 676px) {
+  .sidebar {
+    width: 400px;
+  }
+}
