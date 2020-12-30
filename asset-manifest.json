@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/keithlim/keithlim.github.io/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/keithlim/keithlim.github.io/static/js/main.a94cc2ca.chunk.js",
+    "main.js.map": "/keithlim/keithlim.github.io/static/js/main.a94cc2ca.chunk.js.map",
+    "runtime-main.js": "/keithlim/keithlim.github.io/static/js/runtime-main.f939986d.js",
+    "runtime-main.js.map": "/keithlim/keithlim.github.io/static/js/runtime-main.f939986d.js.map",
+    "static/js/2.b21ddd00.chunk.js": "/keithlim/keithlim.github.io/static/js/2.b21ddd00.chunk.js",
+    "static/js/2.b21ddd00.chunk.js.map": "/keithlim/keithlim.github.io/static/js/2.b21ddd00.chunk.js.map",
+    "static/js/3.5a3a76fa.chunk.js": "/keithlim/keithlim.github.io/static/js/3.5a3a76fa.chunk.js",
+    "static/js/3.5a3a76fa.chunk.js.map": "/keithlim/keithlim.github.io/static/js/3.5a3a76fa.chunk.js.map",
+    "index.html": "/keithlim/keithlim.github.io/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/keithlim/keithlim.github.io/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.b21ddd00.chunk.js.LICENSE.txt": "/keithlim/keithlim.github.io/static/js/2.b21ddd00.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/keithlim/keithlim.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f939986d.js",
+    "static/js/2.b21ddd00.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.a94cc2ca.chunk.js"
+  ]
+}
