@@ -1,6 +1,6 @@
 .btn {
     position: absolute;
-    top: 2rem;
+    top: 1rem;
     right: 2rem;
     font-size: 2rem;
     background: transparent;
@@ -10,14 +10,6 @@
 
 .mainMenu {
     color: var(--clr-primary-4);
-}
-
-.list {
-    margin-top: 5rem;
-}
-
-.list li {
-    margin: 3rem 0rem;
 }
 
 .sidebar {
@@ -30,8 +22,17 @@
     transition: all 0.3s linear;
     transform: translate(100%);
 }
+
 .show-sidebar {
     transform: translate(0);
+}
+
+.list {
+    margin-top: 5rem;
+}
+
+.list li {
+    margin: 3rem 0rem;
 }
 
 @media screen and (min-width: 676px) {

@@ -1,0 +1,25 @@
+.categories {
+    height: 500px;
+}
+
+.categories-centerTop {
+    grid-template-columns: 4fr 2fr;
+}
+
+.categories-centerBottom {
+    grid-template-columns: 2fr 4fr;
+}
+
+@media screen and (min-width: 800px) {
+    
+    .categories-centerTop {
+        display: grid;
+        grid-template-columns: 4fr 2fr;
+    }
+    
+    .categories-centerBottom {
+        display: grid;
+        grid-template-columns: 2fr 4fr;
+    }
+
+}

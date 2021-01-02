@@ -1,0 +1,40 @@
+.aboutme-article {
+    margin-top: 500px;
+    height: 600px;
+    background: var(--clr-primary-2);
+}
+
+.aboutme-article header {
+    padding-top: 3rem;
+}
+
+.aboutme-article header h2 {
+    text-align: center;
+}
+
+.aboutme-article p {
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
+
+@media screen and (min-width: 800px) {
+
+    .aboutme-article {
+        margin-top: 0px;
+        height: 600px;
+    }
+
+    .aboutme-article header {
+    padding-top: 3rem;
+}
+
+    .aboutme-article header h2 {
+        font-size: 40px;
+    }
+
+    .aboutme-article p {
+        font-size: x-large;
+    }
+
+}

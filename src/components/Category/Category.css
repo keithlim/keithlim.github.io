@@ -1,0 +1,38 @@
+.category-div {
+    justify-content: center;
+    display: flex;
+    padding-top: 5rem;
+    display: grid;
+    height: 250px;
+}
+
+.category-div h1 {
+    color: antiquewhite;
+    font-size: 1.5rem;
+}
+
+.category-div h1:hover {
+    opacity: 0.3;
+    cursor: pointer;
+}
+
+.underline {
+    margin-top: -100px;
+    width: 5rem;
+    height: 0.25rem;
+    background: var(--clr-primary-3);
+}
+
+@media screen and (min-width: 1200px) {
+    .category-div {
+        padding-top: 3rem;
+    }
+
+    .category-div h1 {
+        font-size: 2.5rem;
+    }
+
+    .underline {
+        margin-top: -90px;
+    }
+}

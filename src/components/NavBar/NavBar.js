@@ -4,10 +4,10 @@ import "./NavBar.css"
 
 function NavBar() {
     return (
-        <header>
+        <nav className="navbar">
             <h2>KEITH'S RESUME</h2>
             <Sidebar />
-        </header>
+        </nav>
     )
 }
 

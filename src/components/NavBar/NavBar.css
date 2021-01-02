@@ -1,7 +1,18 @@
-h2 {
+.navbar {
+    /* background: transparent; */
+    /* height: 70px; */
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    position: sticky;
+    top: 0;
+}
+
+.navbar h2 {
     position: absolute;
-    top: 2rem;
+    top: 1rem;
     left: 2rem;
     font-size: 1rem;
-    text-decoration: underline;   
+    text-decoration: underline;
+    color: antiquewhite;
 }
