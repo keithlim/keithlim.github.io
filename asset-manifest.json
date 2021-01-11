@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/static/js/main.a94cc2ca.chunk.js",
-    "main.js.map": "/static/js/main.a94cc2ca.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.900c14f8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.900c14f8.js.map",
-    "static/js/2.b21ddd00.chunk.js": "/static/js/2.b21ddd00.chunk.js",
-    "static/js/2.b21ddd00.chunk.js.map": "/static/js/2.b21ddd00.chunk.js.map",
-    "static/js/3.5a3a76fa.chunk.js": "/static/js/3.5a3a76fa.chunk.js",
-    "static/js/3.5a3a76fa.chunk.js.map": "/static/js/3.5a3a76fa.chunk.js.map",
+    "main.css": "/static/css/main.dd869231.chunk.css",
+    "main.js": "/static/js/main.654b4bec.chunk.js",
+    "main.js.map": "/static/js/main.654b4bec.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7c144ccc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7c144ccc.js.map",
+    "static/js/2.d45a25ca.chunk.js": "/static/js/2.d45a25ca.chunk.js",
+    "static/js/2.d45a25ca.chunk.js.map": "/static/js/2.d45a25ca.chunk.js.map",
+    "static/js/3.b39f69e2.chunk.js": "/static/js/3.b39f69e2.chunk.js",
+    "static/js/3.b39f69e2.chunk.js.map": "/static/js/3.b39f69e2.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.b21ddd00.chunk.js.LICENSE.txt": "/static/js/2.b21ddd00.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "static/css/main.dd869231.chunk.css.map": "/static/css/main.dd869231.chunk.css.map",
+    "static/js/2.d45a25ca.chunk.js.LICENSE.txt": "/static/js/2.d45a25ca.chunk.js.LICENSE.txt",
+    "static/media/downloadsBG.2a88c54a.jpg": "/static/media/downloadsBG.2a88c54a.jpg",
+    "static/media/educationBG.4ce322a3.jpg": "/static/media/educationBG.4ce322a3.jpg",
+    "static/media/experienceBG.648cac32.jpg": "/static/media/experienceBG.648cac32.jpg",
+    "static/media/keithProfilePic.34184f1e.jpeg": "/static/media/keithProfilePic.34184f1e.jpeg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/projectsBG.c28fc609.jpg": "/static/media/projectsBG.c28fc609.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.900c14f8.js",
-    "static/js/2.b21ddd00.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.a94cc2ca.chunk.js"
+    "static/js/runtime-main.7c144ccc.js",
+    "static/js/2.d45a25ca.chunk.js",
+    "static/css/main.dd869231.chunk.css",
+    "static/js/main.654b4bec.chunk.js"
   ]
 }
